@@ -1,25 +1,27 @@
 {
   "name": "nm-deploy-http-push",
-  "version": "1.0.1",
-  "description": "fis3 deploy http-push plugin",
+  "version": "0.0.2",
+  "description": "基于fis的远程部署能力",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lingtal/nm-deploy-http-push.git"
+  },
   "keywords": [
     "fis",
-    "fis-plus",
-    "fis3",
     "deploy",
     "nmtree",
     "lingtal"
   ],
   "author": {
-    "name": "听着情歌流泪"
+    "name": "听着情歌流泪",
+    "email": "develop@lingtal.com"
   },
   "license": "BSD",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lingtal/nm-deploy-http-push"
-  }
+  "ignore": [
+    "**/.*"
+  ]
 }
