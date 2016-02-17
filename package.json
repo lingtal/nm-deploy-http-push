@@ -1,0 +1,25 @@
+{
+  "name": "nm-deploy-http-push",
+  "version": "1.0.0",
+  "description": "fis3 deploy http-push plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fis-plus",
+    "fis3",
+    "deploy",
+    "nmtree",
+    "lingtal"
+  ],
+  "author": {
+    "name": "听着情歌流泪"
+  },
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lingtal/nm-deploy-http-push"
+  }
+}
